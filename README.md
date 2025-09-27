@@ -9,8 +9,3 @@ This repository contains my C++ implementations, focusing on:
 * 🔹 Topics such as **file handling (fstream), bank & client management problems, pointers, memory addresses, recursion, and loops**
 
 The purpose of this work is to **practice real-world problem-solving** and build a solid foundation for advanced programming.
-
----
-
-Do you want me to also prepare a **short GitHub description (max ~80 chars)** for the repo tagline, like:
-👉 *"45+ solved C++ problems (fstream, bank/client systems, pointers, memory)"*?
